@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Esraa 👋
 
-<!--
-**ESRAA-ANLYSTE/ESRAA-ANLYSTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.
 
-Here are some ideas to get you started:
+## About Me
+- 📊 Interested in Data Analysis & Data Visualization
+- 📈 Building dashboards and analyzing datasets
+- 📚 Currently learning data analytics tools
+- 💡 Passionate about data-driven decision making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- Business Insights
+
+## Tools
+- Excel
+- Power BI
+- Python (learning)
+- SQL (learning)
+
+## Projects
+- Sales Analysis Dashboard
+- Data Visualization Projects
+- Business Data Insights
+
+## Connect with me
+- LinkedIn
+- Email
