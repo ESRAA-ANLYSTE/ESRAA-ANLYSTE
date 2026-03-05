@@ -3,28 +3,33 @@
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.
 
 ## About Me
-- 📊 Interested in Data Analysis & Data Visualization
-- 📈 Building dashboards and analyzing datasets
-- 📚 Currently learning data analytics tools
-- 💡 Passionate about data-driven decision making
+
+* 📊 Interested in Data Analysis & Data Visualization
+* 📈 Building dashboards and analyzing datasets
+* 📚 Currently learning data analytics tools
+* 💡 Passionate about data-driven decision making
 
 ## Skills
-- Data Analysis
-- Data Visualization
-- Dashboard Design
-- Business Insights
+
+* Data Analysis
+* Data Visualization
+* Dashboard Design
+* Business Insights
 
 ## Tools
-- Excel
-- Power BI
-- Python (learning)
-- SQL (learning)
+
+* Excel
+* Power BI
+* Python (learning)
+* SQL (learning)
 
 ## Projects
-- Sales Analysis Dashboard
-- Data Visualization Projects
-- Business Data Insights
 
-## Connect with me
-- LinkedIn
-- Email
+* Sales Analysis Dashboard
+* Data Visualization Projects
+
+## Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/esraa-abdelfattah-/
+* 📧 Email: [ishabib95@gmail.com](mailto:ishabib95@gmail.com)
+* 💻 GitHub: https://github.com/ESRAA-ANLYSTE
